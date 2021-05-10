@@ -13,4 +13,3 @@ Para executar:
 
 **streamlit run dashboard.py**
 
-dashboards
