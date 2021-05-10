@@ -1,8 +1,8 @@
 # DASHBOARDS
 
-Esse dashboard utiliza streamlit
+Esse dashboard utiliza *streamlit*
 
-para instalar:
+Para instalar:
 
 **pip3 install streamlit**
 
@@ -13,3 +13,4 @@ Para executar:
 
 **streamlit run dashboard.py**
 
+dashboards
