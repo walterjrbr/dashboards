@@ -1,15 +1,15 @@
-# dashboards
+# DASHBOARDS
 
 Esse dashboard utiliza streamlit
 
 para instalar:
 
-pip3 install streamlit
+**pip3 install streamlit**
 
-pip3 install streamlit-agraph
+**pip3 install streamlit-agraph**
 
 
 Para executar:
 
-streamlit run dashboard.py
+**streamlit run dashboard.py**
 
