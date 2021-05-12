@@ -6,7 +6,7 @@ import streamlit as st
 
 gol_df=data.DataReader(name='GOLL4.SA',data_source='yahoo', start='2015-01-01')
 
-st.title("""Visualização dos dados da companhia TESTE""")
+st.title("""Visualização dos dados TESTE""")
 gol_df
 #gol_df.shape
 #gol_df.Close
