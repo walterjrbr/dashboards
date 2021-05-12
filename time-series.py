@@ -2,9 +2,6 @@
 
 import pandas as pd
 from pandas_datareader import data
-import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
 import streamlit as st
 
 gol_df=data.DataReader(name='GOLL4.SA',data_source='yahoo', start='2015-01-01')
